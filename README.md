@@ -6,4 +6,4 @@ Here we demonstrate interacting with the [Opensearch API](https://ceos.org/docum
 finding data and using the different data access methods.
 
 You can run the demo in a Jupyter Notebook using binder:
-https://mybinder.org/v2/gh/cedadev/cci-opensearch-demo/HEAD?labpath=cci_opensearch_demo.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedadev/cci-opensearch-demo/HEAD?labpath=cci_opensearch_demo.ipynb)
