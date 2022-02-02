@@ -10,10 +10,6 @@ You can run the demo in a Jupyter Notebook using binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedadev/cci-opensearch-demo/HEAD?labpath=notebooks/index.ipynb)
 
-
-## Opensearch Clients
-[This project](https://github.com/edsu/opensearch) provide an opensearch client. Untested.
-
 ## Developing
 
 To develop the notebooks:
