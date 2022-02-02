@@ -23,7 +23,11 @@ To develop the notebooks:
     ```
     pip install -r dev_requirements.txt
     ```
-3. Start the notebook server
+3. Install pre-commit hook to clean notebooks before commiting
+   ```
+   pre-commit install
+   ```
+4. Start the notebook server
     ```
     jupyter-lab
     ```
