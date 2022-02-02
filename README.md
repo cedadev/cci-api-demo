@@ -1,6 +1,7 @@
 # CCI API Demo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedadev/cci-opensearch-demo/HEAD?labpath=notebooks/index.ipynb)
+[![test-notebooks](https://github.com/cedadev/cci-api-demo/actions/workflows/test.yml/badge.svg)](https://github.com/cedadev/cci-api-demo/actions/workflows/test.yml)
 
 This repository acts to demonstrate API interactions with the [CCI Open Data Portal](https://climate.esa.int/en/explore/access-climate-data/)
 
